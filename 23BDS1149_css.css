@@ -1,0 +1,47 @@
+body{
+	background-image:url(cm.png);
+	background-size:cover;
+}
+h1{
+	color:brown;
+	text-align:center;
+	font-size=50px;
+}
+h2{
+	color:brown;
+	text-align:center;
+	font-size=50px;
+}
+.p1{
+	color:navy;
+	
+}
+.p2{
+	color:brown;
+	background-color:pink;
+}
+.p3{
+	
+}
+.blue-text{
+	color:crimson;
+	font-style:italic;
+}
+.pink-background{
+	background-color:blue;
+	opacity:1;
+}
+
+.n1{
+	background-color:white;
+	width:100%;
+}
+.n2{
+	background-color:white;
+	width:100%;
+}
+
+	
+
+	
+	
